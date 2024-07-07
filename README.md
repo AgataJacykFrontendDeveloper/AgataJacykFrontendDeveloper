@@ -28,14 +28,3 @@ Aspiring Frontend Developer
 
 <a href="http://www.github.com/AgataJacykFrontendDeveloper"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AgataJacykFrontendDeveloper&stroke=64748b&background=171717&ring=ec4899&fire=ec4899&currStreakNum=64748b&currStreakLabel=ec4899&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
-<a href="http://www.github.com/AgataJacykFrontendDeveloper"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=AgataJacykFrontendDeveloper&bg_color=171717&color=64748b&line=ec4899&point=64748b&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/AgataJacykFrontendDeveloper" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgataJacykFrontendDeveloper&langs_count=10&title_color=ec4899&text_color=64748b&icon_color=ec4899&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/AgataJacykFrontendDeveloper/PortfolioPage" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AgataJacykFrontendDeveloper&repo=PortfolioPage&title_color=ec4899&text_color=64748b&icon_color=ec4899&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/AgataJacykFrontendDeveloper/VotingApp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AgataJacykFrontendDeveloper&repo=VotingApp&title_color=ec4899&text_color=64748b&icon_color=ec4899&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/AgataJacykFrontendDeveloper/Richi-safari" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AgataJacykFrontendDeveloper&repo=Richi-safari&title_color=ec4899&text_color=64748b&icon_color=ec4899&bg_color=171717&hide_border=true&locale=en" /></a></div>
