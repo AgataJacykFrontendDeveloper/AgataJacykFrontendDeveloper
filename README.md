@@ -24,7 +24,9 @@ Aspiring Frontend Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/AgataJacykFrontendDeveloper"><img src="https://github-readme-stats.vercel.app/api?username=AgataJacykFrontendDeveloper&show_icons=true&hide=stars,&count_private=true&title_color=ec4899&text_color=64748b&icon_color=ec4899&bg_color=171717&hide_border=true&show_icons=true" alt="AgataJacykFrontendDeveloper's GitHub stats" /></a>
-
-<a href="http://www.github.com/AgataJacykFrontendDeveloper"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AgataJacykFrontendDeveloper&stroke=64748b&background=171717&ring=ec4899&fire=ec4899&currStreakNum=64748b&currStreakLabel=ec4899&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
+<p align="center">
+       <a align="center" href="http://www.github.com/AgataJacykFrontendDeveloper"><img
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgataJacykFrontendDeveloperi&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+            height="180" /></a>
+</p>
 
