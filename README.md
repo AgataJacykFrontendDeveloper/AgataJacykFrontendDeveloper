@@ -1,9 +1,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=300&color=BEEFF8&multiline=true&random=false&width=600&height=100&lines=Hi!+I'm+Agata;Aspiring+Frontend+Developer" alt="Typing SVG" /></a>
 ---------------------------
+<br>
 <div align="center">
 <img src="https://github.com/AgataJacykFrontendDeveloper/AgataJacykFrontendDeveloper/assets/158597636/2aefcb3a-1cdd-450a-b44e-34084c5f99de" alt="Maneki Neko - welcome"></div>
-
-
+<br>
 <p align="center">I am a computer science student with a front-end specialization with three years of experience in designing and creating websites. I have several commercial projects on my account, including WordPress-based projects and those created completely from scratch, with a full design and in accordance with the client's requirements. My skills include landing page development as well as front-end development in JavaScript using Vue and other tools. You can also find ambitious projects on my resume, such as an app using the Pokemon API that uses data to see which Pokemon will win a fight. As a creative developer, I am ready to solve your problems and create a unique website for you that will meet your requirements.
 
 * 🌍  I'm based in Poland
