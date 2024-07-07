@@ -30,7 +30,5 @@
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgataJacykFrontendDeveloper&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
             height="180" /></a>
 </p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
+<!--START_SECTION_DAILY_COMMIT:readme-info-->
+<!--END_SECTION_DAILY_COMMIT:readme-info-->
