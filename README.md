@@ -26,7 +26,7 @@ Aspiring Frontend Developer
 
 <p align="center">
        <a align="center" href="http://www.github.com/AgataJacykFrontendDeveloper"><img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgataJacykFrontendDeveloperi&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgataJacykFrontendDeveloper&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
             height="180" /></a>
 </p>
 
